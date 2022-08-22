@@ -4,11 +4,12 @@ CREATE WEBHOOK:
 3. Download and install [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 4. Download this code
 5. Go into `Webhook_Flask_App`
-6. Run the following commands
+6. Delete git files
+7. Run the following commands
     - `git init`
     - `git add -A`
     - `git commit -m "Initial Commit"`
     - `heroku login`
     - `heroku create <<your username>>-flask-webhook-app`
     - `git push heroku master`
-7. . Set webhook URL to `https://<<your username>>-flask-webhook-app.herokuapp.com/webhook`
+8. . Set webhook URL to `https://<<your username>>-flask-webhook-app.herokuapp.com/webhook`
