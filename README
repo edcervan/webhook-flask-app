@@ -1,5 +1,5 @@
 CREATE WEBHOOK:
-1. Complete [First assigment](https://www.internalfb.com/intern/wiki/WhatsApp/Business/Business_API/API_Platforms/On-Premise_Client/GettingStarted/FirstAssignment/)
+1. Complete First assigment
 2. Create your account in [Heroku](https://dashboard.heroku.com/apps)
 3. Download and install [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
 4. Download this code
