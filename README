@@ -1,0 +1,14 @@
+CREATE WEBHOOK:
+1. Complete [First assigment](https://www.internalfb.com/intern/wiki/WhatsApp/Business/Business_API/API_Platforms/On-Premise_Client/GettingStarted/FirstAssignment/)
+2. Create your account in [Heroku](https://dashboard.heroku.com/apps)
+3. Download and install [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
+4. Download this code
+5. Go into `Webhook_Flask_App`
+6. Run the following commands
+    - `git init`
+    - `git add -A`
+    - `git commit -m "Initial Commit"`
+    - `heroku login`
+    - `heroku create <<your username>>-flask-webhook-app`
+    - `git push heroku master`
+7. . Set webhook URL to `https://<<your username>>-flask-webhook-app.herokuapp.com/webhook`
